@@ -1,0 +1,1 @@
+This is the first project for Odin project which will include setting up a web page consistin of 2 pages by using HTML.
